@@ -1,4 +1,4 @@
-# DNN-Planet-Classification
+# DNN-Planet-Classification model
 
 Because my previous kNN algorithm for planet classification is bad at its task, I develop Deep Neural Network for this task using pytorch. Training DNN model for this task, and using binary cross entropy loss as loss, my DNN model does better than my previous kNN model.
 
